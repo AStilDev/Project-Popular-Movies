@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nothing">0dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="text_view_padding">5dp</dimen>
+    <dimen name="larger_text_view_padding">10dp</dimen>
+    <dimen name="super_large_text_view_padding">20dp</dimen>
+    <dimen name="layout_bottom_padding">10dp</dimen>
+    <dimen name="layout_padding">20dp</dimen>
+    <dimen name="image_width">200dp</dimen>
+    <dimen name="image_height">300dp</dimen>
+    <dimen name="title_text_size">16sp</dimen>
+</resources>

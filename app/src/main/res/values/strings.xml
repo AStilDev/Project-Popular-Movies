@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_image_descriptor">Image of a popular movie</string>
+    <string name="details_error_message">Error loading movie details</string>
+    <string name="average_vote">Vote Average:</string>
+    <string name="sort_by_popular">Most Popular</string>
+    <string name="sort_by_vote">Average Vote</string>
+    <string name="release_date">Release Date:</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite">Favorite</string>
+    <string name="play_image_descriptor">Image of a play button</string>
+    <string name="down_image_descriptor">Image of an up arrow</string>
+    <string name="up_image_descriptor">Image of a down array</string>
+    <string name="arrow_image_descriptor">Image of an expander arrow</string>
+    <string name="star_image_descriptor">Image of a favorites star</string>
+</resources>
